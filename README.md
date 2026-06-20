@@ -1,70 +1,113 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea&color=100:764ba2&height=300&section=header&text=Ishita%20Roy&fontSize=90&fontColor=ffffff&animation=fadeIn&desc=Competitive%20Programmer%20%7C%20DSA%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=62&descAlign=50" width="100%" alt="Header" />
+</div>
+
+<div align="center">
   
-  <!-- Aesthetic Top Banner -->
-  <img src="https://capsule-render.vercel.app/type=waving&color=gradient&height=220&section=header&text=Ishita%20Roy&fontSize=70&animation=fadeIn&fontColor=ffffff" width="100%" alt="Header Banner" />
+  [![GitHub](https://img.shields.io/badge/GitHub-Follow-667eea?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IshitaRoy20)
+  [![Email](https://img.shields.io/badge/Email-Contact-667eea?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ishitaroy20042005@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishita-roy-82aa41309/)
+  
+  <br>
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=500&lines=Solving+Complex+Problems;One+Algorithm+at+a+Time;DSA+%26+CP+Enthusiast" alt="Typing SVG" />
+  
+</div>
 
-  <!-- Subtitle Coding Animation Tag -->
-  <h3>💫 Computer Science Student @ NIT Durgapur | Competitive Programmer | Developer</h3>
+---
 
-  <p align="center">
-    <a href="https://github.com/YOUR_GITHUB_USERNAME">
-      <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=social" alt="Followers" />
-    </a>
-  </p>
+## 🔥 About
+
+Computer Science & Engineering student at **NIT Durgapur** passionate about competitive programming and algorithmic problem-solving. Specialized in data structures, algorithm optimization, and crafting elegant solutions to complex computational challenges.
+
+**Core Expertise:**
+- ⚡ Advanced Data Structures & Algorithms
+- 🏆 Competitive Programming (Multi-platform)
+- 🧩 Problem-Solving & Optimization
+- 📊 Algorithmic Analysis & Complexity
+
+---
+
+## 🏆 Competitive Programming Achievements
+
+<div align="center">
+
+| 🟦 Codeforces | ⭐⭐ CodeChef | 🎯 LeetCode | 💚 AtCoder |
+|:---:|:---:|:---:|:---:|
+| **Pupil** | **2 Star** | **Top 10%** | **Green** |
+| **1279** | **1527** | **1824** | **818** |
+
+</div>
+
+<div align="center">
+  
+  > Actively competing • Constantly improving • Always learning
+  
+</div>
+
+---
+
+## 💻 Technical Arsenal
+
+<div align="center">
+
+**Languages**  
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Data Science**  
+![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+
+**Web Technologies**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Development**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
 
 ---
 
-## 🌌 About Me
-
-- 🎓 **Education:** Pursuing a Bachelor of Technology in **Computer Science and Engineering** at the **National Institute of Technology, Durgapur**.
-- 🧠 **Focus:** Passionate about advanced data structures, algorithmic optimizations, and system workflows.
-- ⚙️ **Environment:** Seamlessly navigating environments with an optimized **Ubuntu (GNOME)** desktop setup.
-- ⚡ **Fun Fact:** When I'm not balancing complexities or debugging system scripts, I am either crafting precisely scaled baking recipes or diving into the lyrical art of recitation.
-
----
-
-## 🏆 Competitive Programming Hub
-
-<p>I am highly active in the competitive coding circuit, consistently solving problems and tracking algorithmic efficiencies across major platforms:</p>
+## 💡 Featured Projects
 
 <div align="left">
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-B12524?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-5B4636?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/AtCoder-black?style=for-the-badge&logo=atcoder&logoColor=white" alt="AtCoder" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
+
+**[Project Name](#)** | C++, Advanced Data Structures  
+Brief description of your algorithmic solution and impact.  
+[→ View Repository](https://github.com)
+
+**[Project Name](#)** | C++, Graph Algorithms  
+Brief description of your algorithmic solution and impact.  
+[→ View Repository](https://github.com)
+
+**[Project Name](#)** | JavaScript, Interactive Web  
+Brief description of your project and impact.  
+[→ View Repository](https://github.com)
+
 </div>
 
 ---
 
-## 🛠️ Technical Arsenal
+<div align="center">
 
-### 💻 Core Languages & Competitive Coding
-<p>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-</p>
+## 🤝 Let's Connect
 
-### 🌐 Web Development Stack
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-1f1f1f?style=for-the-badge&logo=github)](https://github.com/ishita-roy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com)
+[![Email](https://img.shields.io/badge/Email-667eea?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
-### 🔧 Tools, Platforms & Operating Systems
-<p>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</p>
+<br>
 
+**Open to collaborations & competitive programming partnerships** 🚀
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea&color=100:764ba2&height=120&section=footer&animation=fadeIn" width="100%" />
+</div>
